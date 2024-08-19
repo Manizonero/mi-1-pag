@@ -2,5 +2,5 @@
 # Progrmas
   *html
   *css
-  *Style Para About
+  *Style Para index y about
   
